@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+.pnpm-debug.log
+
+# build outputs
+.next
+out
+
+# env files
+.env
+.env.local
