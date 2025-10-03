@@ -301,8 +301,8 @@ export default function TrackStatusPage() {
                   <h4 className="font-medium text-blue-900 mb-2">Need Help?</h4>
                   <p className="text-sm text-blue-800 mb-2">If you have questions about your report, contact us:</p>
                   <div className="text-sm text-blue-800">
-                    <p>📞 Barangay Hotline: (02) 8888-0000</p>
-                    <p>📧 Email: info@barangay.gov.ph</p>
+                    <p>📞 Barangay Hotline: 0946-379-6038</p>
+                    <p>📧 Email: barangaymancruzmain@gmail.com</p>
                     <p>🏢 Office Hours: Monday-Friday 8:00 AM - 5:00 PM</p>
                   </div>
                 </div>
