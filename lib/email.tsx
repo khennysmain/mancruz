@@ -34,7 +34,7 @@ export async function sendConfirmationEmail(
         </div>
         
         <p>Please keep this reference number for your records. You can use it to track the status of your ${type} at:</p>
-        <p><a href="${process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"}/track" style="color: #1e40af;">Track Your Report</a></p>
+        <p><a href="${process.env.NEXT_PUBLIC_SITE_URL || "https://barangaymancruz-help.netlify.app/track"}/track" style="color: #1e40af;">Track Your Report</a></p>
         
         <p>We will review your ${type} and take appropriate action. You will be notified of any updates.</p>
         
