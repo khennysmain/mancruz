@@ -218,13 +218,13 @@ export default function BarangayComplaintSystem() {
       <div className="bg-red-600 text-white py-2 md:py-3">
         <div className="container mx-auto px-4">
           <div className="flex flex-wrap justify-center gap-2 md:gap-4 text-sm md:text-base">
-            <a href="09399337795" className="flex items-center gap-1 hover:bg-red-700 px-2 py-1 rounded">
+            <a href="tel:0939-933-7795" className="flex items-center gap-1 hover:bg-red-700 px-2 py-1 rounded">
               <Phone className="h-4 w-4" />
-              <span className="font-semibold">Emergency: 09399337795</span>
+              <span className="font-semibold">Emergency: 0939-933-7795</span>
             </a>
-            <a href="09463796038" className="flex items-center gap-1 hover:bg-red-700 px-2 py-1 rounded">
+            <a href="tel:0946-379-6038" className="flex items-center gap-1 hover:bg-red-700 px-2 py-1 rounded">
               <Phone className="h-4 w-4" />
-              <span className="font-semibold">Barangay: 09463796038</span>
+              <span className="font-semibold">Barangay: 0946-379-6038</span>
             </a>
           </div>
         </div>
@@ -714,25 +714,25 @@ export default function BarangayComplaintSystem() {
               <div className="space-y-2">
                 <p>
                   <strong>Emergency:</strong>{" "}
-                  <a href="0912-855-5551" className="text-blue-600 hover:underline">
+                  <a href="tel:0912-855-5551" className="text-blue-600 hover:underline">
                     0939-933-7795
                   </a>
                 </p>
                 <p>
                   <strong>Police:</strong>{" "}
-                  <a href="0998-598-5954" className="text-blue-600 hover:underline">
+                  <a href="tel:0998-598-5954" className="text-blue-600 hover:underline">
                     0998-598-5954
                   </a>
                 </p>
                 <p>
                   <strong>Fire:</strong>{" "}
-                  <a href="0939-933-7795" className="text-blue-600 hover:underline">
+                  <a href="tel:0939-933-7795" className="text-blue-600 hover:underline">
                     0939-933-7795
                   </a>
                 </p>
                 <p>
                   <strong>Barangay Mancruz:</strong>{" "}
-                  <a href="tel09463796038" className="text-blue-600 hover:underline">
+                  <a href="tel:0946-379-6038" className="text-blue-600 hover:underline">
                     0946-379-6038
                   </a>
                 </p>
