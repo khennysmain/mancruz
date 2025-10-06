@@ -732,7 +732,7 @@ export default function BarangayComplaintSystem() {
                 </p>
                 <p>
                   <strong>Barangay Mancruz:</strong>{" "}
-                  <a href="tel:0946-379-6038" className="text-blue-600 hover:underline">
+                  <a href="tel09463796038" className="text-blue-600 hover:underline">
                     0946-379-6038
                   </a>
                 </p>
