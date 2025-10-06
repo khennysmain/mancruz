@@ -220,11 +220,11 @@ export default function BarangayComplaintSystem() {
           <div className="flex flex-wrap justify-center gap-2 md:gap-4 text-sm md:text-base">
             <a href="09399337795" className="flex items-center gap-1 hover:bg-red-700 px-2 py-1 rounded">
               <Phone className="h-4 w-4" />
-              <span className="font-semibold">Emergency: 0939-933-7795</span>
+              <span className="font-semibold">Emergency: 09399337795</span>
             </a>
-            <a href="0946-379-6038" className="flex items-center gap-1 hover:bg-red-700 px-2 py-1 rounded">
+            <a href="09463796038" className="flex items-center gap-1 hover:bg-red-700 px-2 py-1 rounded">
               <Phone className="h-4 w-4" />
-              <span className="font-semibold">Barangay: 0946-379-6038</span>
+              <span className="font-semibold">Barangay: 09463796038</span>
             </a>
           </div>
         </div>
