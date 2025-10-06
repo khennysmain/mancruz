@@ -303,8 +303,8 @@ export default function AdminDashboard() {
 
         <Tabs defaultValue="complaints" className="w-full">
           <TabsList className="grid w-full grid-cols-2">
-            <TabsTrigger value="complaints">Complaints Management</TabsTrigger>
-            <TabsTrigger value="incidents">Incidents Management</TabsTrigger>
+            <TabsTrigger value="complaints">Complaints</TabsTrigger>
+            <TabsTrigger value="incidents">Incidents</TabsTrigger>
           </TabsList>
 
           <TabsContent value="complaints" className="space-y-6">
